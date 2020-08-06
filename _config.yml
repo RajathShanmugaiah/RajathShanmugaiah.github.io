@@ -1,1 +1,4 @@
 theme: jekyll-theme-architect
+name: Rajath Shanmugaiah
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
