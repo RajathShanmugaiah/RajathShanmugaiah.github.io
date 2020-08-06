@@ -1,3 +1,8 @@
 nav{
   background: rgba(50,50,50,.95) !important;
 }
+.header_image{
+  background-image: url("/images/home.jpg");
+  width: 100%;
+  height: 83%;
+}
