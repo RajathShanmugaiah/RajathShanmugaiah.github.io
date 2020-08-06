@@ -9,4 +9,17 @@ nav{
   position:relative;
   text-align:center;
 }
+.centered{
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+}
+.centered_sub_title{
+  position:absolute;
+  top:60%;
+  left:54%;
+  transform:translate(-50%,-50%);
+}
+
 
