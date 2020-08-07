@@ -4,6 +4,7 @@ nav{
 .header_images{
   width: 100%;
   height: 83%;
+  background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4));
 }
 .container_body{
   position:relative;
@@ -34,6 +35,8 @@ nav{
 }
 .profile_rounded{
   border-radius: 50%;
+  height:300px;
+  width:300px;
 }
 
 
