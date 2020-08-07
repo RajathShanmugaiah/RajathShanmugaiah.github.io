@@ -24,7 +24,7 @@ nav{
 .centered_sub_title{
   position:absolute;
   top:60%;
-  left:52%;
+  left:50%;
   transform:translate(-50%,-50%);
 }
 .centered_profile_image{
