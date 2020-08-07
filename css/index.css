@@ -26,5 +26,14 @@ nav{
   left:54%;
   transform:translate(-50%,-50%);
 }
+.centered_profile_image{
+  position:absolute;
+  top:30%;
+  left:50%;
+  transform:translate(-50%,-50%);
+}
+.profile_rounded{
+  border-radius: 50%;
+}
 
 
