@@ -15,6 +15,12 @@ nav{
   margin-right: 0% !important;
   margin-left: 0% !important;
 }
+.about_centered{
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 .centered{
   position:absolute;
   top:50%;
