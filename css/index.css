@@ -19,6 +19,7 @@ nav{
   position: absolute;
   top: 70%;
   left: 50%;
+  text-justify: auto;
   transform: translate(-50%, -50%);
 }
 .centered{
