@@ -48,6 +48,7 @@ nav{
 @media only screen and (max-width: 600px) {
   .mobile_scroll{
    overflow: scroll;
+    height:500px;
   }
 }
 
