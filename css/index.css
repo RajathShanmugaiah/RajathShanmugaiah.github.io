@@ -56,6 +56,9 @@ nav{
    overflow: scroll;
     height:400px;
   }
+  .cv_header{
+    margin-left:6%;
+  }
 }
 @media only screen and (min-width: 992px) {
   .cv_header{
