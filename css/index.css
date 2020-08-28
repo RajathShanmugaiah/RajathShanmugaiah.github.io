@@ -59,6 +59,12 @@ nav{
   .cv_header{
     margin-left:6%;
   }
+  .home_header{
+    font-size:20px;
+  }
+  .home_subheader{
+    font-size:14px;
+  }
 }
 @media only screen and (min-width: 992px) {
   .cv_header{
